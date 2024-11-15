@@ -3,7 +3,7 @@
     {
       "id": 1,
       "ad": "Kart 1",
-      "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/cardTarot.svg",
+      "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarot.svg",
       "card_details": {
         "The Fool - Joker": [
           {
@@ -141,7 +141,7 @@
     {
       "id": 2,
       "ad": "Kart 2",
-      "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/CardCoffee.svg",
+      "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/coffee.svg",
       "card_details": {
         "description": "Bu, Kart 2'nin detaylı açıklamasıdır.",
         "imageUrl": "https://example.com/image2.jpg",
@@ -151,7 +151,7 @@
     {
       "id": 3,
       "ad": "Kart 3",
-      "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/cardCrystal.svg",
+      "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/kure.svg",
       "cards_details": {
         "description": "Bu, Kart 3'ün detaylı açıklamasıdır.",
         "imageUrl": "https://example.com/image3.jpg",
