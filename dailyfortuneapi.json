@@ -157,6 +157,26 @@
         "imageUrl": "https://example.com/image3.jpg",
         "additionalInfo": "Kart 3 ile ilgili ekstra bilgiler burada yer alacak."
       }
+    },
+    {
+      "id": 4,
+      "ad": "Kart 3",
+      "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/kure.svg",
+      "cards_details": {
+        "description": "Bu, Kart 3'ün detaylı açıklamasıdır.",
+        "imageUrl": "https://example.com/image3.jpg",
+        "additionalInfo": "Kart 3 ile ilgili ekstra bilgiler burada yer alacak."
+      }
+    },
+    {
+      "id": 5,
+      "ad": "Kart 3",
+      "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/kure.svg",
+      "cards_details": {
+        "description": "Bu, Kart 3'ün detaylı açıklamasıdır.",
+        "imageUrl": "https://example.com/image3.jpg",
+        "additionalInfo": "Kart 3 ile ilgili ekstra bilgiler burada yer alacak."
+      }
     }
   ]
 }
