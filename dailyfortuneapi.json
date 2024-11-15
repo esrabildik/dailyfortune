@@ -12,7 +12,7 @@
             "description": "Başlangıçlar, masumiyet, kendiliğindenlik, özgür bir ruh…",
             "details": "Jokerin belirli bir sonucu manipüle etme hırsı yoktur. Bütünün bir parçası olmaktan mutluluk duy!"
           },
-          "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
         },
         {
           "title": "The Magician - Büyücü",
@@ -21,7 +21,87 @@
             "description": "Tezahür, beceriklilik, güç, ilham verici eylem…",
             "details": "Yaratıcılığına güven. Sezgine gereken önemi ver. Her türlü beceriksizliği durdurabilirsin. Kendini tutman için bir sebep yok."
           },
-          "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The High Priestess - Yüksek Rahibe",
+          "details": {
+            "id": 3,
+            "description": "Sezgi, kutsal bilgi, ilahi dişil, bilinçaltı zihin…",
+            "details": "İnsan bilgeliğini temsil eder. Doğuştan gelen güçlerini geliştirmek istediğine karar veren, doğa ve ruhsal gizemin tefekkür çalışmasını temsil eder."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The Empress - İmparatoriçe",
+          "details": {
+            "id": 4,
+            "description": "Doğurganlık, Kadınlık, Güzellik, Doğa, Bolluk, Bereket…",
+            "details": "İyi niyetini koru. Kişiliğinin en iyi yönünü göster. İmparatoriçe, şimdiye kadar gösterdiğin sağduyuya güvenmeni tavsiye ediyor."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The Emperor - İmparator",
+          "details": {
+            "id": 5,
+            "description": "Otorite, Kontrol, Yapı, Baba Figürü…",
+            "details": "Doğal asalet ve içtenliği bulmak için içine ulaş. Hayatı yönetmek için gerekli yeteneklere sahipsin. Yanında güvenebileceğin biri olsun!"
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The Hierophant - Başrahip",
+          "details": {
+            "id": 6,
+            "description": "Manevi Bilgelik, Dini İnançlar, Uygunluk, Gelenek, Ahlak…",
+            "details": "Öğrenebileceğin her şeyi öğren. Eğitimini tamamla. Özgeçmişini tekrar yaz. Kendi krallığında bir usta olmak kaderinde olabilir!"
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The Lovers - Aşıklar",
+          "details": {
+            "id": 7,
+            "description": "Aşk, Uyum, İlişkiler, Değerler Uyumu, Seçimler…",
+            "details": "Sezgine ve rasyonel zekâna güven. Neyi seçtiğine dair bir yargı yok. Bazı tavizler vermeye istekli ol ve günün sonunda verdiğin söze sadık kal."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The Chariot - Savaş Arabası",
+          "details": {
+            "id": 8,
+            "description": "Kontrol, İrade, Başarı, Eylem, Kararlılık…",
+            "details": "Harekete ve seyahate hazırlıklı ol. Önüne çıkan deneyim imkânları açık. Bağımsızlığını koru!"
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "Strength - Güç",
+          "details": {
+            "id": 9,
+            "description": "Güç, Cesaret, Etki, İkna, Şefkat…",
+            "details": "Kendini iddialı bir şekilde disipline et. Kişisel çıkarlarından arın ve bilgeliğe yönel. Egonun arzusuna ters olsa bile, sezginin yolundan ayrılma. Benlik saygın, çabalarının karşısında büyüyecektir."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The Hermit - Ermiş",
+          "details": {
+            "id": 10,
+            "description": "Ruh arayışı, İç Gözlem, Yalnızlık, İçsel Rehberlik…",
+            "details": "Ermiş, her şeyi dikkatlice düşünmeni öneriyor. Birçok talep ile karşı karşıyasın. Seni rahat bırakmalarını söylemekten çekinme. Sindir, hazmet! Zamana ihtiyacın var."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The Wheel of Fortune - Kader Çarkı",
+          "details": {
+            "id": 11,
+            "description": "Olayların akışını takip et. Çok şey öğreneceksin. Dönüşümleri kabul et. Özümsediğin şey sana uzun süre fayda sağlayacaktır."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
         }
       ]
     },
@@ -30,11 +110,14 @@
       "ad": "Kart 2",
       "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/coffee.svg",
       "card_details": [
-        {
-          "description": "Bu, Kart 2'nin detaylı açıklamasıdır.",
-          "image_url": "https://example.com/image2.jpg",
-          "additional_info": "Kart 2 ile ilgili ekstra bilgiler burada yer alacak."
-        }
+      {
+         "title": "The Wheel of Fortune - Kader Çarkı",
+          "details": {
+            "id": 11,
+            "description": "Olayların akışını takip et. Çok şey öğreneceksin. Dönüşümleri kabul et. Özümsediğin şey sana uzun süre fayda sağlayacaktır."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+      }
       ]
     },
     {
@@ -43,9 +126,12 @@
       "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/kure.svg",
       "card_details": [
         {
-          "description": "Bu, Kart 3'ün detaylı açıklamasıdır.",
-          "image_url": "https://example.com/image3.jpg",
-          "additional_info": "Kart 3 ile ilgili ekstra bilgiler burada yer alacak."
+         "title": "The Wheel of Fortune - Kader Çarkı",
+          "details": {
+            "id": 11,
+            "description": "Olayların akışını takip et. Çok şey öğreneceksin. Dönüşümleri kabul et. Özümsediğin şey sana uzun süre fayda sağlayacaktır."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
         }
       ]
     },
@@ -54,11 +140,14 @@
       "ad": "Kart 4",
       "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/kure.svg",
       "card_details": [
-        {
-          "description": "Bu, Kart 4'ün detaylı açıklamasıdır.",
-          "image_url": "https://example.com/image4.jpg",
-          "additional_info": "Kart 4 ile ilgili ekstra bilgiler burada yer alacak."
-        }
+      {
+         "title": "The Wheel of Fortune - Kader Çarkı",
+          "details": {
+            "id": 11,
+            "description": "Olayların akışını takip et. Çok şey öğreneceksin. Dönüşümleri kabul et. Özümsediğin şey sana uzun süre fayda sağlayacaktır."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+      }
       ]
     },
     {
@@ -67,9 +156,12 @@
       "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/kure.svg",
       "card_details": [
         {
-          "description": "Bu, Kart 5'in detaylı açıklamasıdır.",
-          "image_url": "https://example.com/image5.jpg",
-          "additional_info": "Kart 5 ile ilgili ekstra bilgiler burada yer alacak."
+         "title": "The Wheel of Fortune - Kader Çarkı",
+          "details": {
+            "id": 11,
+            "description": "Olayların akışını takip et. Çok şey öğreneceksin. Dönüşümleri kabul et. Özümsediğin şey sana uzun süre fayda sağlayacaktır."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
         }
       ]
     }
