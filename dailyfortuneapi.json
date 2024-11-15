@@ -14,7 +14,7 @@
               "details": "Jokerin belirli bir sonucu manipüle etme hırsı yoktur. Bütünün bir parçası olmaktan mutluluk duy!"
             },
             "id": 1,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/data/main/b7.1.svg"
+            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
           }
         ],
         "The Magician - Büyücü": [
@@ -26,7 +26,7 @@
               "details": "Yaratıcılığına güven. Sezgine gereken önemi ver. Her türlü beceriksizliği durdurabilirsin. Kendini tutman için bir sebep yok."
             },
             "id": 2,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/data/main/b7.1.svg"
+            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
           }
         ],
         "The High Priestess - Yüksek Rahibe": [
@@ -38,7 +38,7 @@
               "details": "İnsan bilgeliğini temsil eder. Doğuştan gelen güçlerini geliştirmek istediğine karar veren, doğa ve ruhsal gizemin tefekkür çalışmasını temsil eder."
             },
             "id": 3,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/data/main/b7.1.svg"
+            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
           }
         ],
         "The Empress - İmparatoriçe": [
@@ -50,7 +50,7 @@
               "details": "İyi niyetini koru. Kişiliğinin en iyi yönünü göster. İmparatoriçe, şimdiye kadar gösterdiğin sağduyuya güvenmeni tavsiye ediyor."
             },
             "id": 4,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/data/main/b7.1.svg"
+            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
           }
         ],
         "The Emperor - İmparator": [
@@ -62,7 +62,7 @@
               "details": "Doğal asalet ve içtenliği bulmak için içine ulaş. Hayatı yönetmek için gerekli yeteneklere sahipsin. Yanında güvenebileceğin biri olsun!"
             },
             "id": 5,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/data/main/b7.1.svg"
+            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
           }
         ],
         "The Hierophant - Başrahip": [
@@ -74,7 +74,7 @@
               "details": "Öğrenebileceğin her şeyi öğren. Eğitimini tamamla. Özgeçmişini tekrar yaz. Kendi krallığında bir usta olmak kaderinde olabilir!"
             },
             "id": 6,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/data/main/b7.1.svg"
+            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
           }
         ],
         "The Lovers - Aşıklar": [
@@ -86,7 +86,7 @@
               "details": "Sezgine ve rasyonel zekâna güven. Neyi seçtiğine dair bir yargı yok. Bazı tavizler vermeye istekli ol ve günün sonunda verdiğin söze sadık kal."
             },
             "id": 7,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/data/main/b7.1.svg"
+            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
           }
         ],
         "The Chariot - Savaş Arabası": [
@@ -98,7 +98,7 @@
               "details": "Harekete ve seyahate hazırlıklı ol. Önüne çıkan deneyim imkânları açık. Bağımsızlığını koru!"
             },
             "id": 8,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/data/main/b7.1.svg"
+            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
           }
         ],
         "Strength - Güç": [
@@ -110,7 +110,7 @@
               "details": "Kendini iddialı bir şekilde disipline et. Kişisel çıkarlarından arın ve bilgeliğe yönel. Egonun arzusuna ters olsa bile, sezginin yolundan ayrılma. Benlik saygın, çabalarının karşısında büyüyecektir."
             },
             "id": 9,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/data/main/b7.1.svg"
+            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
           }
         ],
         "The Hermit - Ermiş": [
@@ -122,7 +122,7 @@
               "details": "Ermiş, her şeyi dikkatlice düşünmeni öneriyor. Birçok talep ile karşı karşıyasın. Seni rahat bırakmalarını söylemekten çekinme. Sindir, hazmet! Zamana ihtiyacın var."
             },
             "id": 10,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/data/main/b7.1.svg"
+            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
           }
         ],
         "The Whell Of Fortune - Kader Çarkı": [
@@ -133,7 +133,7 @@
               "description": "Olayların akışını takip et. Çok şey öğreneceksin. Dönüşümleri kabul et. Özümsediğin şey sana uzun süre fayda sağlayacaktır."
             },
             "id": 11,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/data/main/b7.1.svg"
+            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
           }
         ]
       }
