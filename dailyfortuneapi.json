@@ -5,138 +5,105 @@
       "ad": "Kart 1",
       "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarot.svg",
       "card_details": [
-        "The Fool - Joker": [
-          {
-            "details": {
-              "id": 1,
-              "title": "The Fool - Joker",
-              "description": "Başlangıçlar, masumiyet, kendiliğindenlik, özgür bir ruh…",
-              "details": "Jokerin belirli bir sonucu manipüle etme hırsı yoktur. Bütünün bir parçası olmaktan mutluluk duy!"
-            },
+        {
+          "title": "The Fool - Joker",
+          "details": {
             "id": 1,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
-          }
-        ],
-        "The Magician - Büyücü": [
-          {
-            "details": {
-              "id": 2,
-              "title": "The Magician - Büyücü",
-              "description": "Tezahür, beceriklilik, güç, ilham verici eylem…",
-              "details": "Yaratıcılığına güven. Sezgine gereken önemi ver. Her türlü beceriksizliği durdurabilirsin. Kendini tutman için bir sebep yok."
-            },
+            "description": "Başlangıçlar, masumiyet, kendiliğindenlik, özgür bir ruh…",
+            "details": "Jokerin belirli bir sonucu manipüle etme hırsı yoktur. Bütünün bir parçası olmaktan mutluluk duy!"
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The Magician - Büyücü",
+          "details": {
             "id": 2,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
-          }
-        ],
-        "The High Priestess - Yüksek Rahibe": [
-          {
-            "details": {
-              "id": 3,
-              "title": "The High Priestess - Yüksek Rahibe",
-              "description": "Sezgi, kutsal bilgi, ilahi dişil, bilinçaltı zihin…",
-              "details": "İnsan bilgeliğini temsil eder. Doğuştan gelen güçlerini geliştirmek istediğine karar veren, doğa ve ruhsal gizemin tefekkür çalışmasını temsil eder."
-            },
+            "description": "Tezahür, beceriklilik, güç, ilham verici eylem…",
+            "details": "Yaratıcılığına güven. Sezgine gereken önemi ver. Her türlü beceriksizliği durdurabilirsin. Kendini tutman için bir sebep yok."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The High Priestess - Yüksek Rahibe",
+          "details": {
             "id": 3,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
-          }
-        ],
-        "The Empress - İmparatoriçe": [
-          {
-            "details": {
-              "id": 4,
-              "title": "The Empress - İmparatoriçe",
-              "description": "Doğurganlık, Kadınlık, Güzellik, Doğa, Bolluk, Bereket…",
-              "details": "İyi niyetini koru. Kişiliğinin en iyi yönünü göster. İmparatoriçe, şimdiye kadar gösterdiğin sağduyuya güvenmeni tavsiye ediyor."
-            },
+            "description": "Sezgi, kutsal bilgi, ilahi dişil, bilinçaltı zihin…",
+            "details": "İnsan bilgeliğini temsil eder. Doğuştan gelen güçlerini geliştirmek istediğine karar veren, doğa ve ruhsal gizemin tefekkür çalışmasını temsil eder."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The Empress - İmparatoriçe",
+          "details": {
             "id": 4,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
-          }
-        ],
-        "The Emperor - İmparator": [
-          {
-            "details": {
-              "id": 5,
-              "title": "The Emperor - İmparator",
-              "description": "Otorite, Kontrol, Yapı, Baba Figürü…",
-              "details": "Doğal asalet ve içtenliği bulmak için içine ulaş. Hayatı yönetmek için gerekli yeteneklere sahipsin. Yanında güvenebileceğin biri olsun!"
-            },
+            "description": "Doğurganlık, Kadınlık, Güzellik, Doğa, Bolluk, Bereket…",
+            "details": "İyi niyetini koru. Kişiliğinin en iyi yönünü göster. İmparatoriçe, şimdiye kadar gösterdiğin sağduyuya güvenmeni tavsiye ediyor."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The Emperor - İmparator",
+          "details": {
             "id": 5,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
-          }
-        ],
-        "The Hierophant - Başrahip": [
-          {
-            "details": {
-              "id": 6,
-              "title": "The Hierophant - Başrahip",
-              "description": "Manevi Bilgelik, Dini İnançlar, Uygunluk, Gelenek, Ahlak…",
-              "details": "Öğrenebileceğin her şeyi öğren. Eğitimini tamamla. Özgeçmişini tekrar yaz. Kendi krallığında bir usta olmak kaderinde olabilir!"
-            },
+            "description": "Otorite, Kontrol, Yapı, Baba Figürü…",
+            "details": "Doğal asalet ve içtenliği bulmak için içine ulaş. Hayatı yönetmek için gerekli yeteneklere sahipsin. Yanında güvenebileceğin biri olsun!"
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The Hierophant - Başrahip",
+          "details": {
             "id": 6,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
-          }
-        ],
-        "The Lovers - Aşıklar": [
-          {
-            "details": {
-              "id": 7,
-              "title": "The Lovers - Aşıklar",
-              "description": " Aşk, Uyum, İlişkiler, Değerler Uyumu, Seçimler…",
-              "details": "Sezgine ve rasyonel zekâna güven. Neyi seçtiğine dair bir yargı yok. Bazı tavizler vermeye istekli ol ve günün sonunda verdiğin söze sadık kal."
-            },
+            "description": "Manevi Bilgelik, Dini İnançlar, Uygunluk, Gelenek, Ahlak…",
+            "details": "Öğrenebileceğin her şeyi öğren. Eğitimini tamamla. Özgeçmişini tekrar yaz. Kendi krallığında bir usta olmak kaderinde olabilir!"
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The Lovers - Aşıklar",
+          "details": {
             "id": 7,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
-          }
-        ],
-        "The Chariot - Savaş Arabası": [
-          {
-            "details": {
-              "id": 8,
-              "title": "The Chariot - Savaş Arabası",
-              "description": "Kontrol, İrade, Başarı, Eylem, Kararlılık…",
-              "details": "Harekete ve seyahate hazırlıklı ol. Önüne çıkan deneyim imkânları açık. Bağımsızlığını koru!"
-            },
+            "description": "Aşk, Uyum, İlişkiler, Değerler Uyumu, Seçimler…",
+            "details": "Sezgine ve rasyonel zekâna güven. Neyi seçtiğine dair bir yargı yok. Bazı tavizler vermeye istekli ol ve günün sonunda verdiğin söze sadık kal."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The Chariot - Savaş Arabası",
+          "details": {
             "id": 8,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
-          }
-        ],
-        "Strength - Güç": [
-          {
-            "details": {
-              "id": 9,
-              "title": "Strength - Güç",
-              "description": "Güç, Cesaret, Etki, İkna, Şefkat…",
-              "details": "Kendini iddialı bir şekilde disipline et. Kişisel çıkarlarından arın ve bilgeliğe yönel. Egonun arzusuna ters olsa bile, sezginin yolundan ayrılma. Benlik saygın, çabalarının karşısında büyüyecektir."
-            },
+            "description": "Kontrol, İrade, Başarı, Eylem, Kararlılık…",
+            "details": "Harekete ve seyahate hazırlıklı ol. Önüne çıkan deneyim imkânları açık. Bağımsızlığını koru!"
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "Strength - Güç",
+          "details": {
             "id": 9,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
-          }
-        ],
-        "The Hermit - Ermiş": [
-          {
-            "details": {
-              "id": 10,
-              "title": "The Hermit - Ermiş",
-              "description": "Ruh arayışı, İç Gözlem, Yalnızlık, İçsel Rehberlik…",
-              "details": "Ermiş, her şeyi dikkatlice düşünmeni öneriyor. Birçok talep ile karşı karşıyasın. Seni rahat bırakmalarını söylemekten çekinme. Sindir, hazmet! Zamana ihtiyacın var."
-            },
+            "description": "Güç, Cesaret, Etki, İkna, Şefkat…",
+            "details": "Kendini iddialı bir şekilde disipline et. Kişisel çıkarlarından arın ve bilgeliğe yönel. Egonun arzusuna ters olsa bile, sezginin yolundan ayrılma. Benlik saygın, çabalarının karşısında büyüyecektir."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The Hermit - Ermiş",
+          "details": {
             "id": 10,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
-          }
-        ],
-        "The Whell Of Fortune - Kader Çarkı": [
-          {
-            "details": {
-              "id": 11,
-              "title": "The Whell Of Fortune - Kader Çarkı",
-              "description": "Olayların akışını takip et. Çok şey öğreneceksin. Dönüşümleri kabul et. Özümsediğin şey sana uzun süre fayda sağlayacaktır."
-            },
+            "description": "Ruh arayışı, İç Gözlem, Yalnızlık, İçsel Rehberlik…",
+            "details": "Ermiş, her şeyi dikkatlice düşünmeni öneriyor. Birçok talep ile karşı karşıyasın. Seni rahat bırakmalarını söylemekten çekinme. Sindir, hazmet! Zamana ihtiyacın var."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        },
+        {
+          "title": "The Wheel of Fortune - Kader Çarkı",
+          "details": {
             "id": 11,
-            "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
-          }
-        ]
-     ]
+            "description": "Olayların akışını takip et. Çok şey öğreneceksin. Dönüşümleri kabul et. Özümsediğin şey sana uzun süre fayda sağlayacaktır."
+          },
+          "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
+        }
+      ]
     },
     {
       "id": 2,
@@ -152,7 +119,7 @@
       "id": 3,
       "ad": "Kart 3",
       "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/kure.svg",
-      "cards_details": {
+      "card_details": {
         "description": "Bu, Kart 3'ün detaylı açıklamasıdır.",
         "imageUrl": "https://example.com/image3.jpg",
         "additionalInfo": "Kart 3 ile ilgili ekstra bilgiler burada yer alacak."
@@ -160,23 +127,24 @@
     },
     {
       "id": 4,
-      "ad": "Kart 3",
+      "ad": "Kart 4",
       "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/kure.svg",
-      "cards_details": {
-        "description": "Bu, Kart 3'ün detaylı açıklamasıdır.",
-        "imageUrl": "https://example.com/image3.jpg",
-        "additionalInfo": "Kart 3 ile ilgili ekstra bilgiler burada yer alacak."
+      "card_details": {
+        "description": "Bu, Kart 4'ün detaylı açıklamasıdır.",
+        "imageUrl": "https://example.com/image4.jpg",
+        "additionalInfo": "Kart 4 ile ilgili ekstra bilgiler burada yer alacak."
       }
     },
     {
       "id": 5,
-      "ad": "Kart 3",
+      "ad": "Kart 5",
       "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/kure.svg",
-      "cards_details": {
-        "description": "Bu, Kart 3'ün detaylı açıklamasıdır.",
-        "imageUrl": "https://example.com/image3.jpg",
-        "additionalInfo": "Kart 3 ile ilgili ekstra bilgiler burada yer alacak."
+      "card_details": {
+        "description": "Bu, Kart 5'in detaylı açıklamasıdır.",
+        "imageUrl": "https://example.com/image5.jpg",
+        "additionalInfo": "Kart 5 ile ilgili ekstra bilgiler burada yer alacak."
       }
     }
   ]
 }
+
