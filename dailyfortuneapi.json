@@ -4,7 +4,7 @@
       "id": 1,
       "ad": "Kart 1",
       "pic_url": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarot.svg",
-      "card_details": {
+      "card_details": [
         "The Fool - Joker": [
           {
             "details": {
@@ -136,7 +136,7 @@
             "picUrl": "https://raw.githubusercontent.com/esrabildik/dailyfortune/refs/heads/main/tarotcard.svg"
           }
         ]
-      }
+     ]
     },
     {
       "id": 2,
